@@ -7,7 +7,7 @@ En la página del **[Portal SAT - Importación de Vehículos](https://www.sat.go
 Automatizar la descarga, procesamiento y análisis de los datos de importación de vehículos correspondientes a:
 
 - Todo el año **2024** (12 meses).
-- Los primeros **5 meses de 2025**.
+- Los primeros **meses de 2025**.
 
 ## 🧩 Parte 1: Automatización de Descarga y Preparación de Datos
 

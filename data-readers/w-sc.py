@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 
 urlSat = "https://portal.sat.gob.gt/portal/alza-e-importacion-vehiculos/#1510763502681-dff4b62b-fd76"
 baseUrl = "https://portal.sat.gob.gt"
-rutaSalida = "./data/enlaces-importacion-2024_2025.txt"
+rutaSalida = "./datos/enlaces-importacion-2024_2025.txt"
 
 def obtenerImportacionesZips(url):
     resp = requests.get(url, timeout=15)
