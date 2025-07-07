@@ -38,12 +38,6 @@ Una vez generado el `data.frame` unificado, se debe realizar una pequeña explor
 
 - ¿Cómo vamos con la importación de **cada tipo de vehículo** en los primeros meses de 2025 comparado con los mismos meses de 2024?
 
-## 📝 Recomendaciones
-
-- Asegúrate de tener una conexión estable para descargar múltiples archivos.
-- Utiliza librerías como `requests`, `zipfile`, `pandas`, `os`, y `glob` para automatizar el flujo.
-- Guarda todos los datos intermedios y resultados finales en carpetas bien organizadas.
-
 ## 📂 Estructura Sugerida de Carpetas
 
 ```bash
